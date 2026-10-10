@@ -3,7 +3,7 @@
 **src foler link**: https://drive.google.com/drive/folders/10WdpjomrUJ2IHU_NK_Gq2OyMSFE94h_Y?usp=drive_link
 
 ## Video Demonstration
-![Autonomous Vehicle Simulation](Video_of_simulation.gif)
+![Autonomous Vehicle Simulation](intro2ros_ss25_group_project/Video_of_simulation.gif)
 
 [Download Full Simulation Video (MP4)](https://gitlab.lrz.de/intro2ros_ramu_2025/intro2ros_ss25_g15/-/blob/main/Video_of_simulation.mp4)
 
